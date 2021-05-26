@@ -2,7 +2,7 @@
 
 
 <div style="display:flex;">
-<img alt="App image" src="screens/1.jpg" width="16%">
+<img alt="App image" src="screens/1.jpg">
 </div>
 
 # [PLAY][1]
